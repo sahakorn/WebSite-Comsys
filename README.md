@@ -1,11 +1,11 @@
 # WebSite-Comsys
 This project created from Computer system Engineering class. This Using php based and mysql for database 
-#Config before
+#Installation
 If you want to use this project you will<br/>
   - 1. Install Appserve [http://www.appservnetwork.com/] ,When Appserve installed you can access [http://localhost/] to browser<br/>
   - 2. You put the project to the folder [C:\AppServ\www], Example -> c:\Appserv\www\WebSite-Comsys<br/>
   - 3. Then [access http://localhost/WebSite-Comsys]
-# Author
+#Author
   - Kwanchanok Nonnapasri
     - Email : kwanchanokn55@email.nu.ac.th
   - Theerawat Hinkaew
@@ -16,3 +16,4 @@ If you want to use this project you will<br/>
    - Email : toppy963@gmail.com
   - Sahakorn Buangam
     - Email : sahakorn.new@outlook.com
+This Project Created 2014-Juior[Third year 2nd]
