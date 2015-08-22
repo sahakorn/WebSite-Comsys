@@ -1,7 +1,7 @@
 # WebSite-Comsys
 This project created from Computer system Engineering class. This Using php based and mysql for database 
 #Config before
-If you want to use this project you will__
-1. Install Appserve [http://www.appservnetwork.com/] ,When Appserve installed you can access [http://localhost/] to browser__  
-2. You put the project to the folder [C:\AppServ\www], Example -> c:\Appserv\www\WebSite-Comsys__
+If you want to use this project you will<br/>
+1. Install Appserve [http://www.appservnetwork.com/] ,When Appserve installed you can access [http://localhost/] to browser<br/>
+2. You put the project to the folder [C:\AppServ\www], Example -> c:\Appserv\www\WebSite-Comsys<br/>
 3. Then [access http://localhost/WebSite-Comsys]__
